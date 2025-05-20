@@ -202,6 +202,7 @@ This feature doesn't work if sample submission is turned off. If automatic sampl
 > - Sample submission is turned on
 > - Client devices must be running Windows 11 or Windows 10, version 1703 or later
 > - Server devices must be running Windows Server 2025, Windows Server 2022, Windows Server 2019, or Windows Server 2016
+> - macOS and Linux servers are not supported for this action yet.
 
 ### Collect files
 
